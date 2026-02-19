@@ -1,6 +1,16 @@
-body{
-    display: flex;
-    justify-content: center;
-    height: 100vh;
-    flex-direction: column;
+
+
+#botao {
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    margin: 80px auto  ;
+    
+    display: block;
 }
+
+body{
+    background-color: #923716;
+#up {
+
+
